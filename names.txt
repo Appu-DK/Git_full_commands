@@ -6,3 +6,5 @@ appu
 nextiva
 simplify
 
+
+appu is junior software engineer 
